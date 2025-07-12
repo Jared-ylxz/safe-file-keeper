@@ -1,4 +1,4 @@
-# SafeFileKeeper
+# safe-file-keeper
 
 A secure document management tool that allows users to encrypt, store, and manage files safely. Ideal for protecting sensitive information with user-friendly features and strong encryption.
 
